@@ -19,8 +19,6 @@ This project demonstrates the design and deployment of a scalable, secure, and h
 ## Architecture Diagram
 ![Architecture Diagram](Diagram2.png)
 
-*(Replace `path/to/architecture-diagram.png` with the actual path to the image in your repository.)*
-
 ## Implementation Details
 1. **Data Migration**: 
    - Utilized SQL dump files for migrating data from the EC2-hosted MySQL database to Amazon RDS.
